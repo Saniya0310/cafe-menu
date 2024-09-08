@@ -1,0 +1,115 @@
+body {
+  background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-background-of-the-simple-menu-of-brown-coffee-retro-picture-image_905552.jpg);
+  font-family: sans-serif;
+  padding: 20px;
+  background-repeat:no-repeat;
+  background-size:100% auto;
+  background-position:center;
+  
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.established {
+  font-style: italic;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+.menu {
+  width: 90%;
+  
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-width: 400px;
+ 
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:150px;
+  height:150px;
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+h1, h2 {
+  font-family: Impact, serif;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.flavor, .dessert {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+/* FOOTER */
+
+footer {
+  font-size: 14px;
+}
+.name{
+  display :block;
+
+}
+.address {
+  margin-bottom: 5px;
+  font-weight:bold;
+  font-size:20px;
+  color:#760005;
+}
+.name{
+  display: block;
+  background-color: rgb(131, 49, 49);
+  color: rgb(247, 241, 241);
+}
+a {
+  color: black;
+  font-weight: bolder;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
+}
